@@ -1,0 +1,35 @@
+Phase 1 — JavaScript Fundamentals
+How JavaScript works
+var, let, const
+Data types
+Operators
+Input/output
+Conditions
+Loops
+Functions
+Scope
+Hoisting
+Phase 2 — Core JavaScript ⭐
+Arrays
+Objects
+Strings
+Destructuring
+Spread / Rest
+map(), filter(), reduce()
+forEach(), find(), some(), every()
+this
+Callbacks
+Closures
+Phase 3 — Interview-Level JavaScript
+Execution context
+Call stack
+Event loop
+Microtask vs macrotask
+Promises
+async/await
+Fetch/API calls
+Error handling
+Prototypes
+Classes
+Inheritance
+Modules
